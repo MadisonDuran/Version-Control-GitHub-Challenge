@@ -1,0 +1,6 @@
+1. A terminal is a place where you can run commands and communicate with your computer. A place where I can add files, organize my data, and push my data to other places. 
+
+2. The major difference between Git and Github is that Git is a version control system which helps you keep track of every change made to your code and Git Hub is a web based service that hosts Git repositories which stores your code in a location.
+
+3. On GitHub, navigate to your repository. In the top-right corner of the page, click Fork. Under the word "Owner", click the dropdown menu and click on the owner who forked the             repository. In the repository name type a name. You can type a description if you'd like, it's optional. You click create fork and you are done.
+
